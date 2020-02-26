@@ -248,7 +248,7 @@ if(argc > 1){
     outFS << endl;
     outFS << "Sum of the length of the DNA strings: " << totalcount << endl;
     outFS << "Mean of the length of the DNA strings is: " << mean << endl;
-    outFS << "Varience of the length of the DNA strings is: " << variance << endl;
+    outFS << "Variance of the length of the DNA strings is: " << variance << endl;
     outFS << "Standard Deviation of the length of the DNA strings is: " << std << endl;
     outFS << "relative probability of each nucleotide: " << endl;
     outFS << "a: " << aProb << endl;
